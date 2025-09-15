@@ -5,7 +5,7 @@ ubuntu:24.04
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-# registry.cn-shanghai.aliyuncs.com/bestjade-public
+#registry.cn-shanghai.aliyuncs.com/bestjade-public
 ##############################################################################
 
 #docker:26.1.4-cli-alpine3.20
